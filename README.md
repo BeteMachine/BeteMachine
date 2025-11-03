@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <h1 align="center">👨‍💻 Chercheur 🧠</h1>
-<h3 align="left">🎓 Actuellement en recherche d'une alternance en administration système et réseau</h3>
+<h3 align="left">🎓 Directeur de Projet Informatiques </h3>
 <h2 align="left">Petit résumé de mes compétences</h2>
 <table>
   <tr>
@@ -65,3 +65,4 @@ Here are some ideas to get you started:
 	<img align="left" alt="Cassé"
      src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
 </a>
+
